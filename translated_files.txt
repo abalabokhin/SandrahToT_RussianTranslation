@@ -1,1 +1,13 @@
-SandrahTot.tra totstart.tra
++ SandrahTot.tra 
++ totstart.tra
+totsilvweap.tra
+candlekeeptot.tra 
+tolini.tra 
+todrizzt.tra 
+tokelem.tra 
+tocyric.tra 
+totchapter1.tra 
+totchapter2.tra 
+totchapter4.tra 
+totchapter5.tra 
+totchapter6.tra 
