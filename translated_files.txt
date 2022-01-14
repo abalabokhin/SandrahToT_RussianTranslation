@@ -1,8 +1,8 @@
 + SandrahTot.tra 
 ----- sync
 + totstart.tra
-totsilvweap.tra
-candlekeeptot.tra 
++ totsilvweap.tra
++ candlekeeptot.tra 
 tolini.tra 
 todrizzt.tra 
 tokelem.tra 
