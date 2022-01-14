@@ -1,4 +1,5 @@
 + SandrahTot.tra 
+----- sync
 + totstart.tra
 totsilvweap.tra
 candlekeeptot.tra 
@@ -6,8 +7,13 @@ tolini.tra
 todrizzt.tra 
 tokelem.tra 
 tocyric.tra 
+----- sync
 totchapter1.tra 
+----- sync
 totchapter2.tra 
+----- sync
 totchapter4.tra 
+----- sync
 totchapter5.tra 
 totchapter6.tra 
+----- sync
