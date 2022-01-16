@@ -3,7 +3,7 @@
 + totstart.tra
 + totsilvweap.tra
 + candlekeeptot.tra 
-tolini.tra 
++ tolini.tra 
 todrizzt.tra 
 tokelem.tra 
 tocyric.tra 
