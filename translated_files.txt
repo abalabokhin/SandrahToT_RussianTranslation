@@ -5,7 +5,7 @@
 + candlekeeptot.tra 
 + tolini.tra 
 + todrizzt.tra 
-tokelem.tra 
++ tokelem.tra 
 tocyric.tra 
 ----- sync
 totchapter1.tra 
