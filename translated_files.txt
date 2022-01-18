@@ -6,7 +6,7 @@
 + tolini.tra 
 + todrizzt.tra 
 + tokelem.tra 
-tocyric.tra 
++ tocyric.tra 
 ----- sync
 totchapter1.tra 
 ----- sync
