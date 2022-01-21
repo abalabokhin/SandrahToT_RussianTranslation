@@ -8,7 +8,7 @@
 + tokelem.tra 
 + tocyric.tra 
 ----- sync
-totchapter1.tra 
++ totchapter1.tra 
 ----- sync
 totchapter2.tra 
 ----- sync
