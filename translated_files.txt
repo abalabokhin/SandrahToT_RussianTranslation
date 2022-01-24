@@ -10,7 +10,7 @@
 ----- sync
 + totchapter1.tra 
 ----- sync
-totchapter2.tra 
++ totchapter2.tra 
 ----- sync
 totchapter4.tra 
 ----- sync
